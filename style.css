@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    margin: 0 10px 20px 10px;
+    justify-content: center;
+}
+div input, div textarea {
+    width: 100%;
+
+}
+label {
+    margin-left: 10px;
+}
+button {
+    margin-left: 10px;
+}
